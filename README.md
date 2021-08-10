@@ -1,4 +1,8 @@
-const data = [{
+const data = [
+
+
+
+{
     "id": 1,
     "model": "1 Series",
     "colour": "white",
